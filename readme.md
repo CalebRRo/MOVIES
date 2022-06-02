@@ -1,5 +1,5 @@
 # MOVIES
 ### PROYECTO
 - Caleb
-- Facundo
+- Facundo, 18, Lanús
 - Lucas
