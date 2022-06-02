@@ -2,4 +2,4 @@
 ### PROYECTO
 - Caleb
 - Facundo
-- Lucas
+- Lucas , 24 años , San Miguel Buenos Aires
